@@ -1,5 +1,5 @@
 <?xml version="1.0" standalone="no" ?>
-<manifest identifier="EG06f162f1-b6d5-40ed-9570-fb2dfe17de2e" version="1.1.1"
+<manifest identifier="EG4abe4ad5-822a-4755-8af0-39e374ff4eae" version="1.1.1"
           xmlns="http://www.imsglobal.org/xsd/imscp_v1p1"
           xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -12,9 +12,9 @@
 
     <organizations default="easygenerator">
         <organization identifier="easygenerator">
-            <title>TestCourse</title>
+            <title>Anti-harassment training template</title>
             <item identifier="eg1" identifierref="REFSCO1" isvisible="true">
-                <title>TestCourse</title>
+                <title>Anti-harassment training template</title>
             </item>
         </organization>
     </organizations>
@@ -28,7 +28,39 @@
         <resource identifier="resources" type="webcontent" adlcp:scormType="asset">
                 <file href="adlcp_v1p3.xsd" />
                 <file href="asset-manifest.json" />
+                <file href="content/868e3428b426466aa874431cb2ff71d0/52852f7714c84d099e0ca6a044167534/05f4f3f3-7c0a-4271-b3ea-9da60298ff64.html" />
+                <file href="content/868e3428b426466aa874431cb2ff71d0/52852f7714c84d099e0ca6a044167534/0b5a4240-6e2a-42d1-aaf6-d33f65fa8b49.html" />
+                <file href="content/868e3428b426466aa874431cb2ff71d0/52852f7714c84d099e0ca6a044167534/0e00e8d8-67ae-4dcc-a147-d3055e7dd952.html" />
+                <file href="content/868e3428b426466aa874431cb2ff71d0/52852f7714c84d099e0ca6a044167534/4d46f553-c752-4282-9b11-3edcc65df988.html" />
+                <file href="content/868e3428b426466aa874431cb2ff71d0/52852f7714c84d099e0ca6a044167534/5d56d2ab-218f-48af-af30-e888a6ed260e.html" />
+                <file href="content/868e3428b426466aa874431cb2ff71d0/52852f7714c84d099e0ca6a044167534/89da9b8c-c9ed-4b63-b1ea-25c3275d4de4.html" />
+                <file href="content/868e3428b426466aa874431cb2ff71d0/bbe35b4c895e40e99c70d1f5e1915341/38983a71-afbe-4aa3-b942-1669fec91ad0.html" />
+                <file href="content/868e3428b426466aa874431cb2ff71d0/bbe35b4c895e40e99c70d1f5e1915341/4df0e683-49d2-4c43-9eeb-89eb005917b6.html" />
+                <file href="content/868e3428b426466aa874431cb2ff71d0/bbe35b4c895e40e99c70d1f5e1915341/c959ba01-41b6-47dc-b1d4-72b462bb2afe.html" />
+                <file href="content/868e3428b426466aa874431cb2ff71d0/d89fb678bcad4d5c8eaba4b4a213b141/31948604-463a-4769-952b-5dd057480894.html" />
+                <file href="content/868e3428b426466aa874431cb2ff71d0/d89fb678bcad4d5c8eaba4b4a213b141/7f5cb1eb-8c22-44a1-bbe8-0936de894172.html" />
+                <file href="content/a2c224abd0554f1a9a5f3cc020ea0176/18ffd10736674754bd3750a7388f1eda/2239a1a2-9644-4a08-b9c7-0b16f01db700.html" />
+                <file href="content/a2c224abd0554f1a9a5f3cc020ea0176/18ffd10736674754bd3750a7388f1eda/ae657818-c967-4f79-b5c7-b3830668cf54.html" />
+                <file href="content/a2c224abd0554f1a9a5f3cc020ea0176/18ffd10736674754bd3750a7388f1eda/fd1cc140-87d1-4094-9e9b-a32186ab761a.html" />
+                <file href="content/a2c224abd0554f1a9a5f3cc020ea0176/240e577310fd4c7fa2304f264ebbdc83/12f67005-b24a-47f3-a376-d9496729e0a8.html" />
+                <file href="content/a2c224abd0554f1a9a5f3cc020ea0176/240e577310fd4c7fa2304f264ebbdc83/36ea406e-d0c0-42b9-9373-b6fb4f7e90bc.html" />
+                <file href="content/a2c224abd0554f1a9a5f3cc020ea0176/240e577310fd4c7fa2304f264ebbdc83/ce28b8d6-80a1-45b5-a0e5-94151c321528.html" />
+                <file href="content/a2c224abd0554f1a9a5f3cc020ea0176/48c8878340964617a1aabdbd82086fff/053c66ba-8311-4384-a076-043796e30137.html" />
+                <file href="content/a2c224abd0554f1a9a5f3cc020ea0176/48c8878340964617a1aabdbd82086fff/9a9097e4-e015-4364-9092-966e24fcf593.html" />
+                <file href="content/a2c224abd0554f1a9a5f3cc020ea0176/9e6052ab5db2440da0b91f7f9e02414d/8e98301a-331a-499a-be4c-99f1a2bde140.html" />
+                <file href="content/a2c224abd0554f1a9a5f3cc020ea0176/9e6052ab5db2440da0b91f7f9e02414d/d1b715e1-c39c-4059-9775-43195c33e80b.html" />
+                <file href="content/a2c224abd0554f1a9a5f3cc020ea0176/dc1fb35af8eb4a808cf402779df46209/1b7ea756-7440-4eae-a481-b26d5cbdf95d.html" />
+                <file href="content/a2c224abd0554f1a9a5f3cc020ea0176/dc1fb35af8eb4a808cf402779df46209/7ffd0b49-1017-41c5-b793-b1f9cf052beb.html" />
+                <file href="content/a2c224abd0554f1a9a5f3cc020ea0176/dc1fb35af8eb4a808cf402779df46209/a33769df-bddc-4b05-9668-461c02dbfa1b.html" />
+                <file href="content/afterword/5337753c-1338-451d-9745-a2a749753313.html" />
+                <file href="content/afterword/c2d8dea4-1cba-4a77-9cc5-1bfbfa2d28b7.html" />
                 <file href="content/data.js" />
+                <file href="content/df0ec0b15be44c7d85f7bb76be7add99/84790d389c7549b8bc991399d2661177/69fcb33e-835f-4f5a-97f3-0affde3909ea.html" />
+                <file href="content/df0ec0b15be44c7d85f7bb76be7add99/84790d389c7549b8bc991399d2661177/a5050d66-d09d-4385-921d-68958a19c5a4.html" />
+                <file href="content/df0ec0b15be44c7d85f7bb76be7add99/85a333a61ec544beb74c3aaaa8339d6f/be5fb308-c945-40fb-841f-49dcf5d03431.html" />
+                <file href="content/df0ec0b15be44c7d85f7bb76be7add99/fcc731ec4a5540d998802613649614a6/0a57fa01-d621-4318-9b92-5e2967596c7b.html" />
+                <file href="content/df0ec0b15be44c7d85f7bb76be7add99/fcc731ec4a5540d998802613649614a6/f890e227-3ac6-4a73-b77d-b2a38c5683b8.html" />
+                <file href="content/introduction/3ade9da4-505f-4b25-b28d-d28177e3bbe5.html" />
                 <file href="customisations.json" />
                 <file href="fonts/OpenSans-Bold.woff" />
                 <file href="fonts/OpenSans-Bold.woff2" />
