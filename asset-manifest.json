@@ -1,0 +1,40 @@
+{
+  "files": {
+    "static/js/0.6db7f9f3.chunk.js": "./static/js/0.6db7f9f3.chunk.js",
+    "static/js/1.49cdea2a.chunk.js": "./static/js/1.49cdea2a.chunk.js",
+    "static/js/2.ab196345.chunk.js": "./static/js/2.ab196345.chunk.js",
+    "static/js/3.8e7c1235.chunk.js": "./static/js/3.8e7c1235.chunk.js",
+    "main.css": "./static/css/main.85b2c22b.chunk.css",
+    "main.js": "./static/js/main.0d4aea4a.chunk.js",
+    "runtime-main.js": "./static/js/runtime-main.715fcc7e.js",
+    "static/css/6.456daad2.chunk.css": "./static/css/6.456daad2.chunk.css",
+    "static/js/6.af966b3c.chunk.js": "./static/js/6.af966b3c.chunk.js",
+    "static/js/7.9533046d.chunk.js": "./static/js/7.9533046d.chunk.js",
+    "static/js/8.041bce61.chunk.js": "./static/js/8.041bce61.chunk.js",
+    "static/js/9.485b7b76.chunk.js": "./static/js/9.485b7b76.chunk.js",
+    "static/js/10.e9f7acbd.chunk.js": "./static/js/10.e9f7acbd.chunk.js",
+    "static/js/11.65ddde44.chunk.js": "./static/js/11.65ddde44.chunk.js",
+    "static/js/12.25f49f94.chunk.js": "./static/js/12.25f49f94.chunk.js",
+    "static/js/13.d49b6714.chunk.js": "./static/js/13.d49b6714.chunk.js",
+    "static/js/14.3fd9014b.chunk.js": "./static/js/14.3fd9014b.chunk.js",
+    "static/js/15.99991320.chunk.js": "./static/js/15.99991320.chunk.js",
+    "index.html": "./index.html",
+    "precache-manifest.06b87aba4c2c4c6d1dec4e81af971f89.js": "./precache-manifest.06b87aba4c2c4c6d1dec4e81af971f89.js",
+    "service-worker.js": "./service-worker.js",
+    "static/js/1.49cdea2a.chunk.js.LICENSE": "./static/js/1.49cdea2a.chunk.js.LICENSE",
+    "static/js/2.ab196345.chunk.js.LICENSE": "./static/js/2.ab196345.chunk.js.LICENSE",
+    "static/js/6.af966b3c.chunk.js.LICENSE": "./static/js/6.af966b3c.chunk.js.LICENSE",
+    "static/media/custom-icons.css": "./static/media/custom-icons.dc321b20.woff",
+    "static/media/font-adjustment-decrease.svg": "./static/media/font-adjustment-decrease.db96d997.svg",
+    "static/media/font-adjustment-increase.svg": "./static/media/font-adjustment-increase.1de7051c.svg",
+    "static/media/font-awesome.min.css": "./static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/not-found.svg": "./static/media/not-found.ba64d91d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.715fcc7e.js",
+    "static/css/6.456daad2.chunk.css",
+    "static/js/6.af966b3c.chunk.js",
+    "static/css/main.85b2c22b.chunk.css",
+    "static/js/main.0d4aea4a.chunk.js"
+  ]
+}

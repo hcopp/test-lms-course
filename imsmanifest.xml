@@ -1,0 +1,151 @@
+<?xml version="1.0" standalone="no" ?>
+<manifest identifier="EG06f162f1-b6d5-40ed-9570-fb2dfe17de2e" version="1.1.1"
+          xmlns="http://www.imsglobal.org/xsd/imscp_v1p1"
+          xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd
+                                                      http://www.adlnet.org/xsd/adlcp_v1p3 adlcp_v1p3.xsd">
+    <metadata>
+        <schema>ADL SCORM</schema>
+        <schemaversion>2004 4th Edition</schemaversion>
+    </metadata>
+
+    <organizations default="easygenerator">
+        <organization identifier="easygenerator">
+            <title>TestCourse</title>
+            <item identifier="eg1" identifierref="REFSCO1" isvisible="true">
+                <title>TestCourse</title>
+            </item>
+        </organization>
+    </organizations>
+    <resources>
+        <resource identifier="REFSCO1" type="webcontent" adlcp:scormType="sco" href="index.html">
+            <metadata>
+                <adlcp:location>metadata.xml</adlcp:location>
+            </metadata>
+            <dependency identifierref="resources" />
+        </resource>
+        <resource identifier="resources" type="webcontent" adlcp:scormType="asset">
+                <file href="adlcp_v1p3.xsd" />
+                <file href="asset-manifest.json" />
+                <file href="content/data.js" />
+                <file href="customisations.json" />
+                <file href="fonts/OpenSans-Bold.woff" />
+                <file href="fonts/OpenSans-Bold.woff2" />
+                <file href="fonts/OpenSans-BoldItalic.woff" />
+                <file href="fonts/OpenSans-BoldItalic.woff2" />
+                <file href="fonts/OpenSans-Italic.woff" />
+                <file href="fonts/OpenSans-Italic.woff2" />
+                <file href="fonts/OpenSans-Regular.woff" />
+                <file href="fonts/OpenSans-Regular.woff2" />
+                <file href="fonts/PTSerif-Bold.woff" />
+                <file href="fonts/PTSerif-Bold.woff2" />
+                <file href="fonts/PTSerif-BoldItalic.woff" />
+                <file href="fonts/PTSerif-BoldItalic.woff2" />
+                <file href="fonts/PTSerif-Italic.woff" />
+                <file href="fonts/PTSerif-Italic.woff2" />
+                <file href="fonts/PTSerif-Regular.woff" />
+                <file href="fonts/PTSerif-Regular.woff2" />
+                <file href="fonts/fonts.css" />
+                <file href="imscp_v1p1.xsd" />
+                <file href="includedModules/lms.js" />
+                <file href="index.html" />
+                <file href="lang/af.json" />
+                <file href="lang/ar.json" />
+                <file href="lang/bg.json" />
+                <file href="lang/bn.json" />
+                <file href="lang/ca.json" />
+                <file href="lang/cz.json" />
+                <file href="lang/da.json" />
+                <file href="lang/de.json" />
+                <file href="lang/el.json" />
+                <file href="lang/en.json" />
+                <file href="lang/es.json" />
+                <file href="lang/et.json" />
+                <file href="lang/fi.json" />
+                <file href="lang/fr.json" />
+                <file href="lang/he.json" />
+                <file href="lang/hr.json" />
+                <file href="lang/hu.json" />
+                <file href="lang/id.json" />
+                <file href="lang/it.json" />
+                <file href="lang/ja.json" />
+                <file href="lang/ko.json" />
+                <file href="lang/lt.json" />
+                <file href="lang/lv.json" />
+                <file href="lang/ms.json" />
+                <file href="lang/nb-no.json" />
+                <file href="lang/nl.json" />
+                <file href="lang/nn-no.json" />
+                <file href="lang/no_filename.json" />
+                <file href="lang/pl.json" />
+                <file href="lang/pt-br.json" />
+                <file href="lang/pt.json" />
+                <file href="lang/pt_PT.json" />
+                <file href="lang/ro.json" />
+                <file href="lang/ru.json" />
+                <file href="lang/rw.json" />
+                <file href="lang/sk.json" />
+                <file href="lang/sl.json" />
+                <file href="lang/sq.json" />
+                <file href="lang/sv.json" />
+                <file href="lang/th.json" />
+                <file href="lang/tr.json" />
+                <file href="lang/uk.json" />
+                <file href="lang/vi.json" />
+                <file href="lang/zh-hans.json" />
+                <file href="lang/zh-hant.json" />
+                <file href="lomLoose.xsd" />
+                <file href="manifest.json" />
+                <file href="media/f4bb9069-77d1-466f-afe9-862768ebba3e.jpg" />
+                <file href="precache-manifest.06b87aba4c2c4c6d1dec4e81af971f89.js" />
+                <file href="preview/images/preview.jpg" />
+                <file href="preview/thumbnail.png" />
+                <file href="print/assets/fontawesome-webfont.svg" />
+                <file href="print/bundle.3253ca911b3ce0b9d027.js" />
+                <file href="print/fonts/custom-icons.woff" />
+                <file href="print/fonts/custom-icons.woff2" />
+                <file href="print/fonts/fontawesome-webfont.eot" />
+                <file href="print/fonts/fontawesome-webfont.ttf" />
+                <file href="print/fonts/fontawesome-webfont.woff" />
+                <file href="print/fonts/fontawesome-webfont.woff2" />
+                <file href="print/index.html" />
+                <file href="print/main.css" />
+                <file href="publishSettings.js" />
+                <file href="service-worker.js" />
+                <file href="settings.js" />
+                <file href="static/css/6.456daad2.chunk.css" />
+                <file href="static/css/main.85b2c22b.chunk.css" />
+                <file href="static/js/0.6db7f9f3.chunk.js" />
+                <file href="static/js/1.49cdea2a.chunk.js" />
+                <file href="static/js/1.49cdea2a.chunk.js.LICENSE" />
+                <file href="static/js/10.e9f7acbd.chunk.js" />
+                <file href="static/js/11.65ddde44.chunk.js" />
+                <file href="static/js/12.25f49f94.chunk.js" />
+                <file href="static/js/13.d49b6714.chunk.js" />
+                <file href="static/js/14.3fd9014b.chunk.js" />
+                <file href="static/js/15.99991320.chunk.js" />
+                <file href="static/js/2.ab196345.chunk.js" />
+                <file href="static/js/2.ab196345.chunk.js.LICENSE" />
+                <file href="static/js/3.8e7c1235.chunk.js" />
+                <file href="static/js/6.af966b3c.chunk.js" />
+                <file href="static/js/6.af966b3c.chunk.js.LICENSE" />
+                <file href="static/js/7.9533046d.chunk.js" />
+                <file href="static/js/8.041bce61.chunk.js" />
+                <file href="static/js/9.485b7b76.chunk.js" />
+                <file href="static/js/main.0d4aea4a.chunk.js" />
+                <file href="static/js/runtime-main.715fcc7e.js" />
+                <file href="static/media/custom-icons.320cfd90.woff2" />
+                <file href="static/media/custom-icons.dc321b20.woff" />
+                <file href="static/media/font-adjustment-decrease.db96d997.svg" />
+                <file href="static/media/font-adjustment-increase.1de7051c.svg" />
+                <file href="static/media/fontawesome-webfont.674f50d2.eot" />
+                <file href="static/media/fontawesome-webfont.912ec66d.svg" />
+                <file href="static/media/fontawesome-webfont.af7ae505.woff2" />
+                <file href="static/media/fontawesome-webfont.b06871f2.ttf" />
+                <file href="static/media/fontawesome-webfont.fee66e71.woff" />
+                <file href="static/media/not-found.ba64d91d.svg" />
+                <file href="themeSettings.js" />
+        </resource>
+    </resources>
+</manifest>
